@@ -1,0 +1,27 @@
+id: P3802EDED
+initial_creation_type: input
+source_metadata:
+  title: Lhatsün Namkha Jigme Series
+  language: en
+  description: 'Texts associated with the famous yogi Lhatsün Namkha Jigme (lha btsun
+    nam mkha'' ''jigs med, 1597–1650), who is credited with ''opening the hidden land''
+    of Sikkim:'
+  volume:
+    5d2d5febd549471aa1992330b1a4bb39:
+      title: The Gentle Rain of Benefit and Joy - An Explanation of the Practice of
+        Sang Offering
+      parent: Commentaries
+    3e52cbc6986249f8a65e9203b26acc57:
+      title: Summoning Prosperity
+      parent: Prayers and Practices
+    f7d2f1ed37c54bac9f5466577330c82c:
+      title: Mountain Smoke Offering from The Life-Force Practice of the Vidyādharas
+      parent: Sang Offering
+    a9268d35a97a405d92c07c45912ab7f0:
+      title: The Mountain Smoke Offering (Riwo Sangchö)
+      parent: Sang Offering
+    31bc5bbd736f48c09497f9c741c4ed2c:
+      title: The Mountain Smoke Offering Arranged for Recitation
+      parent: Sang Offering
+created_at: '2022-03-01T00:35:25.495892'
+last_modified_at: '2022-03-01T00:35:25.495898'
